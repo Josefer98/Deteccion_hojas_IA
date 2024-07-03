@@ -1,0 +1,3 @@
+roboflow: https://app.roboflow.com/usfx-u1ll9/deteccion-hojas-platano/deploy
+
+Drive:https://drive.google.com/drive/folders/1epUuYFRCeEdCI1RexOVTcfI8H0gAjgwF?usp=drive_link
